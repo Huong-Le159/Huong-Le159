@@ -1,8 +1,8 @@
 ## WELCOME TO MY PAGE 👋👋👋
 
 My name is Huong Le (Helen). I am currently pursuing MBA in Business Analytics at Wilmington University, expected graduation in May 2026. I am interested in data, dashboard, and driving smarter business decisions. 
-
-## 🔍 Tech
+**
+🔍 Tech**
 Python • Power BI • SQL • Data Visualization • Machine Learning
 
 ### 📫 How to reach me:
